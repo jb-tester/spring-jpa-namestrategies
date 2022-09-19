@@ -8,7 +8,7 @@ import java.util.Optional;
 /**
  * *
  * <p>Created by irina on 9/14/2022.</p>
- * <p>Project: spring-boot-jpa-projection</p>
+ * <p>Project: spring-jpa-namestrategies</p>
  * *
  */
 public interface Tab3Repo extends CrudRepository<Tab3Entity,Long> {

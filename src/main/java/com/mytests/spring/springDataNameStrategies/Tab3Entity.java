@@ -6,7 +6,7 @@ import java.util.Objects;
 /**
  * *
  * <p>Created by irina on 9/14/2022.</p>
- * <p>Project: spring-boot-jpa-projection</p>
+ * <p>Project: spring-jpa-namestrategies</p>
  * *
  */
 @Entity

@@ -9,6 +9,12 @@ import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
+/**
+ * *
+ * <p>Created by irina on 9/14/2022.</p>
+ * <p>Project: spring-jpa-namestrategies</p>
+ * *
+ */
 @SpringBootTest
 class NamingStrategyTests {
    @Autowired Tab3Repo repo;
